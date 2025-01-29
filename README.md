@@ -10,4 +10,4 @@ Thank you for taking a look at my profile! Below I describe some of the projects
 - Experiments on using ideas from the literature on efficient transformers (e.g., GQA, Sparse Attention) in order to improve the SOTA in real-time object detection.
 
 [AskePlaat-DRL-Solutions](https://github.com/AbelHutten/AskePlaat-DRL-Solutions)
-- Solutions to most of the questions in the textbook *Deep Reinforcent Learning* (2022) by Aske Plaat. Made as a reference for people working through these exercises. At the time of writing, the only one on the internet.
+- Solutions to most of the questions and many of the practical exersises in the textbook *Deep Reinforcent Learning* (2022) by Aske Plaat. Made as a reference for people working through these exercises. At the time of writing, the only one on the internet.
