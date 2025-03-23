@@ -1,6 +1,6 @@
 
 ### Highlighted Projects
-[Deformable Grouped Query Attenion](https://github.com/AbelHutten/deformable-grouped-query-attention)
+[Deformable Grouped Query Attention](https://github.com/AbelHutten/deformable-grouped-query-attention)
 - Implemented deformable attention with grouped-query support. This is the first known instance of deformable attention enhanced with grouped-query attention, demonstrating a novel architectural combination for improved efficiency.
 
 [TEP-Net-V2](https://github.com/AbelHutten/TEP-Net-V2)  
