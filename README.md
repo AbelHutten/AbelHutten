@@ -7,5 +7,8 @@
 - Experiments on improving [TEP-Net](https://github.com/irtrailenium/train-ego-path-detection), the current SOTA in rail vehicle ego path detection. Added confidence scores, improved out-of-distribution errors when a leading vehicle is close, worked on adding memory to handle otherwise ambiguous cases.
 - [Contributed `torch.compile` integration back to the original TEP-Net](https://github.com/irtrailenium/train-ego-path-detection/pull/5), reducing training time by 17.7% on RTX 4090, with potentially greater speedups on datacenter GPUs.
 
+[Stochastic-Calculus-for-Finance-I-and-II-Solutions](https://github.com/AbelHutten/Stochastic-Calculus-for-Finance-I-and-II-Solutions)
+- Original solutions to the exercises in Stochastic Calculus for Finance I and II by Steven Shreve, written in Typst.
+  
 [AskePlaat-DRL-Solutions](https://github.com/AbelHutten/AskePlaat-DRL-Solutions)
 - Solutions to most of the questions and many of the practical exersises in the textbook *Deep Reinforcent Learning* (2022) by Aske Plaat. Made as a reference for people working through these exercises. At the time of writing, the only one on the internet.
