@@ -2,14 +2,12 @@
 
 [Master Thesis (2023)](https://github.com/AbelHutten/master_thesis)
 
-- Master thesis on fabrication and characterization of nanoscale electronic superconducting devices. Gold and Palladium nanoscale break-junctions, made using electron-beam lithography, and made superconducting via the proximity effect using a layer of Niobium. The devices showed asymmetric critical current when a magnetic field was applied, making this a novel way of producing Josephson diodes.
+- Master thesis on fabrication and characterization of nanoscale electronic superconducting devices. Gold and Palladium nanoscale break-junctions, made using electron-beam lithography, and made superconducting via the proximity effect using a layer of Niobium. The devices showed asymmetric critical current under magnetic field, making this a novel way of producing Josephson diodes.
 
 <p align="center" style="text-align: center;">
-  <img src="assets/master-thesis-device.png" alt="Scanning electron micrograph of a nanoscale break-junction device" width="383" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</p>
-
-<p align="center" style="text-align: center;">
-  <img src="assets/master-thesis.png" alt="Voltage and differential resistance as a function of bias current and applied magnetic field, with positive and negative critical-current curves" width="85%" style="display: block; margin: 0 auto;">
+  <img src="assets/master-thesis-device.png" alt="Scanning electron micrograph of a nanoscale break-junction device" width="350" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+  <br style="display: none;">
+  <img src="assets/master-thesis.png" alt="Voltage and differential resistance as a function of bias current and applied magnetic field, with positive and negative critical-current curves" width="791" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
 </p>
 
 [Deformable Grouped Query Attention](https://github.com/AbelHutten/deformable-grouped-query-attention)
@@ -17,7 +15,7 @@
 - Implemented deformable attention with grouped-query support. This is the first known instance of deformable attention enhanced with grouped-query attention, demonstrating a novel architectural combination for improved efficiency.
 
 <p align="center" style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/AbelHutten/deformable-grouped-query-attention/main/assets/results.png" alt="Runtime comparison of deformable grouped-query, multi-head, and multi-query attention" width="383" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
+  <img src="https://raw.githubusercontent.com/AbelHutten/deformable-grouped-query-attention/main/assets/results.png" alt="Runtime comparison of deformable grouped-query, multi-head, and multi-query attention" width="350" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
 </p>
 
 [TEP-Net-V2](https://github.com/AbelHutten/TEP-Net-V2)
