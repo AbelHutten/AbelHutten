@@ -1,5 +1,7 @@
-
 ### Highlighted Projects
+[Master Thesis](https://github.com/AbelHutten/master_thesis)
+- Masterthesis on fabrication and characterization of nanoscale electronic superconducting devices. Gold and Paladium nanoscale break-junctions, made using electron-beam lithography, and made superconducting via the proximity effect using a layer of Niobium. The devices showed asymmetric critical current when a magnetic field was applied, making this a novel way of producing Josephson diodes.   
+
 [Deformable Grouped Query Attention](https://github.com/AbelHutten/deformable-grouped-query-attention)
 - Implemented deformable attention with grouped-query support. This is the first known instance of deformable attention enhanced with grouped-query attention, demonstrating a novel architectural combination for improved efficiency.
 
